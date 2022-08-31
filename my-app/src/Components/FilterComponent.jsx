@@ -35,11 +35,11 @@ useEffect(()=>{
 
      <CheckboxGroup colorScheme='green' defaultValue={Category}  onChange={categoryHandler}>
   <VStack spacing={[1, 5]} direction={['column', 'row']} alignItems={'baseline'}>
-    <Checkbox value="men's clothing">Men's Clothing</Checkbox>
-    <Checkbox value="women's clothing">Women's Clothing</Checkbox>
+    <Checkbox value="men's clothing">Men'section</Checkbox>
+    <Checkbox value="women's clothing">Women'section</Checkbox>
     <Checkbox value='jewelery'>Jewelary</Checkbox>
-    <Checkbox value='electronics'>Electronicks</Checkbox>
-    <Checkbox value='bags'>Bags</Checkbox>
+    <Checkbox value='electronics'>Gadgets</Checkbox>
+    <Checkbox value='bags'>Handy-Bags</Checkbox>
   </VStack>
 </CheckboxGroup>
     </Box>
