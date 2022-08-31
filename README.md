@@ -7,9 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I have deployed the frontend and backend, 
 
-Frontend deployed on netlify [link](https://netlify-thinks-gajraj-singh-shekhawat-is-great-fe9b8.netlify.app/).
+Frontend deployed on netlify [Depoly-link](https://moneyapp-e-commerce.netlify.app/).
 
-Json-server deployed on heroku [Link](https://json-dummy-server-gajraj.herokuapp.com/)
+Json-server deployed on heroku [Json-server-Deploy-Link](https://json-dummy-server-gajraj.herokuapp.com/)
 
 
 
